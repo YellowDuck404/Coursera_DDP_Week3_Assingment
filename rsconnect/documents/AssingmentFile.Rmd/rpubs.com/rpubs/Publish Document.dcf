@@ -1,0 +1,10 @@
+name: Publish Document
+title:
+username:
+account: rpubs
+server: rpubs.com
+hostUrl: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/525103/d6ab04f2a71845838c82256cd977ee70
+bundleId: https://api.rpubs.com/api/v1/document/525103/d6ab04f2a71845838c82256cd977ee70
+url: http://rpubs.com/yellowduck404/525103
+when: 1567631847.60003
